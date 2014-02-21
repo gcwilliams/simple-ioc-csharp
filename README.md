@@ -5,7 +5,7 @@
 A very simple IOC written for the fun of it...
 
 * Constructor injection only
-* No need for annotations
+* No need for attributes
 
 #### Usage
 
